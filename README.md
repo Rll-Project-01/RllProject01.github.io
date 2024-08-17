@@ -1,1 +1,1 @@
-animated particle background
+Animated Particle Background
